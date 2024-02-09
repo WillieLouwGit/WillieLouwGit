@@ -2,7 +2,7 @@
 
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Willie Louw</h1>
-<h3 align="center">I am a Computer and Electronic Engineering student in my final year.</h3>
+<h3 align="center">I am a Computer and Electronic Engineering in my final year.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willielouwgit&label=Profile%20views&color=0e75b6&style=flat" alt="willielouwgit" /> </p>
